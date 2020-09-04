@@ -1,0 +1,2 @@
+# cordovagps
+GPS Cordova Plugin
